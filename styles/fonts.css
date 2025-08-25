@@ -1,0 +1,11 @@
+/* Heading */
+@font-face {
+    font-family: "NotoSerif";
+    src: url("../fonts/NotoSerif.ttf");
+}
+
+/* Body */
+@font-face {
+    font-family: "Inter";
+    src: url("../fonts/Inter.ttf");
+}
