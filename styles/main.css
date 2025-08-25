@@ -1,18 +1,3 @@
-@font-face {
-    font-family: "Inter";
-    src: url("../fonts/Inter.ttf");
-}
-
-@font-face {
-    font-family: "NotoSerif";
-    src: url("../fonts/NotoSerif.ttf");
-}
-
-/* For testing if the fonts were imported */
-h1 {
-    font-family: "Inter", sans-serif;
-}
-
-h2 {
-    font-family: "NotoSerif", sans-serif;
+body {
+    background-color: var(--background);
 }
