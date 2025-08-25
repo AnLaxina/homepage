@@ -5,6 +5,7 @@
 
 .top-section-icons {
     display: flex;
-    gap: 1rem;
-    max-width: 300px;
+    padding: 0.5rem;
+    justify-content: flex-end;
+    max-width:  100%;
 }
