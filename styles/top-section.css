@@ -1,0 +1,10 @@
+.top-section {
+    display: flex;
+
+}
+
+.top-section-icons {
+    display: flex;
+    gap: 1rem;
+    max-width: 300px;
+}
