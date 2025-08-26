@@ -1,5 +1,17 @@
 .top-section {
     display: flex;
+    justify-content: center;
+    padding: 1rem;
+    max-width: 100%;
+    flex-wrap: wrap;
+    background-color: var(--secondary);
+}
+
+.top-section-icons {
+    display: flex;
+    padding: 0.5rem;
+    justify-content: flex-end;
+    max-width:  100%;
 }
 
 .about-me {
@@ -11,12 +23,11 @@
     flex-direction: column;
     gap: 1.5rem;
     padding: 1rem;
-    max-width: 40rem;
+    max-width: 30rem;
 }
 
-.top-section-icons {
-    display: flex;
-    padding: 0.5rem;
-    justify-content: flex-end;
-    max-width:  100%;
+
+figure {
+    flex-shrink: 0;
+    max-width: 40rem;
 }
