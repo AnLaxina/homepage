@@ -1,6 +1,7 @@
 body {
     display: flex;
     font-family: "Inter", sans-serif;
+    color: var(--text-primary);
     flex-direction: column;
     background-color: var(--background);
 }
