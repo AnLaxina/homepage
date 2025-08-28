@@ -14,17 +14,19 @@
     max-width:  100%;
 }
 
-.about-me {
-    font-size: 2rem;
-}
-
 .about-me-section {
     display: flex;
     flex-direction: column;
     gap: 1.5rem;
     padding: 1rem;
     max-width: 30rem;
+    background-color: var(--background);
 }
+
+.about-me {
+    font-size: 2rem;
+}
+
 
 
 figure {
