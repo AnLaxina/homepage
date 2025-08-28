@@ -1,0 +1,21 @@
+.my-work-section {
+    padding: 1.2rem;
+}
+
+.my-work-heading {
+    font-weight: 500;
+}
+
+.project {
+    display: flex;
+    flex-direction: column;
+    max-width: 18rem;
+}
+
+.project-header {
+    display: flex;
+    padding: 0.5rem;
+    justify-content: space-between;
+    gap: 2rem;
+    max-width: 100%;
+}
