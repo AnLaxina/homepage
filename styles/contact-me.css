@@ -1,0 +1,23 @@
+footer {
+  display: flex;
+  justify-content: space-between;
+  background-color: var(--secondary);
+  padding: 4rem;
+}
+
+.footer-image-container {
+  max-width: 50rem;
+}
+
+.contact-me-section {
+  display: flex;
+  flex-direction: column;
+  background-color: var(--background);
+  gap: 1.2rem;
+  padding: 1.2rem;
+}
+
+.contact-list {
+  display: flex;
+  gap: 0.5rem;
+}
