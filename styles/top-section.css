@@ -2,7 +2,7 @@
     display: flex;
     justify-content: center;
     padding: 1rem;
-    max-width: 100%;
+    max-width: 100%; 
     flex-wrap: wrap;
     background-color: var(--secondary);
 }
@@ -27,9 +27,6 @@
     font-size: 2rem;
 }
 
-
-
 figure {
-    flex-shrink: 0;
     max-width: 40rem;
 }
