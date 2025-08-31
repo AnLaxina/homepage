@@ -27,6 +27,12 @@
     font-size: 2rem;
 }
 
+.big-portrait-text {
+    display: flex;
+    justify-content: center;
+}
+
+
 figure {
     max-width: 40rem;
 }
